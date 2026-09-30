@@ -2,7 +2,7 @@
 
 # [Gemini Omni Prompts](https://geminiomni.video/gemini-omni-prompts)
 
-48 video prompts and examples across 7 categories. Each case includes a playable video and the full prompt.
+Video prompts and examples organized by category. Each case includes a playable video and the full prompt.
 
 <a name="categories"></a>
 
@@ -1532,6 +1532,6 @@ For a new prompt, try this structure:
 
 > Subject + action + setting + camera movement + lighting + sound.
 
-## More Examples
+## Create a Video
 
-Find more prompts and output videos in the [Gemini Omni Prompts](https://geminiomni.video/gemini-omni-prompts) library.
+Create videos with [Gemini Omni](https://geminiomni.video/).
