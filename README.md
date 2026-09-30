@@ -25,7 +25,7 @@ Choose a category below, then select a numbered case from its index.
 1. Pick a case and click the play button to watch its video directly on GitHub.
 2. Copy the prompt displayed beneath it. You can collapse long prompts while browsing.
 3. Check the **Input** note and any **reference inputs** provided.
-4. Use the prompt library linked above to try a prompt, then review the available settings and required uploads.
+4. Open [Gemini Omni](https://geminiomni.video/), paste your prompt, and add any required reference inputs before generating.
 
 Requests such as “4K” or “9:16” inside a prompt are not verified output settings.
 
@@ -1532,6 +1532,6 @@ For a new prompt, try this structure:
 
 > Subject + action + setting + camera movement + lighting + sound.
 
-## Create a Video
+## More Prompts
 
-Create videos with [Gemini Omni](https://geminiomni.video/).
+Find more video prompts and examples in the [Gemini Omni Prompts](https://geminiomni.video/gemini-omni-prompts) library.
