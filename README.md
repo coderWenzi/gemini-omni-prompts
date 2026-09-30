@@ -2,9 +2,7 @@
 
 # [Gemini Omni Prompts](https://geminiomni.video/gemini-omni-prompts)
 
-48 video prompts and examples across 7 categories. Each case includes an output preview, the original prompt, creator credit, and a link to watch the video.
-
-**[Gemini Omni Prompts](https://geminiomni.video/gemini-omni-prompts) · [Create a video](https://geminiomni.video/)**
+48 video prompts and examples across 7 categories. Each case includes a playable video, the original prompt, creator credit, and a link to use the prompt.
 
 <a name="categories"></a>
 
@@ -24,7 +22,7 @@ Choose a category below, then select a numbered case from its index.
 
 ## How to Use
 
-1. Pick a case and view its preview. Click the image or video link to watch the output.
+1. Pick a case and click the play button to watch its video directly on GitHub.
 2. Copy the prompt displayed beneath it. You can collapse long prompts while browsing.
 3. Check the **Input** note and any **reference inputs** provided.
 4. Open the example page, select **Use this prompt**, and review the available settings and required uploads.
@@ -54,11 +52,11 @@ Prompts are reproduced as recorded in our community library, with links to their
 
 Creator: [@KrevixAi](https://x.com/KrevixAi/status/2099493179275846127) · [Original post](https://x.com/KrevixAi/status/2099493179275846127)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/orbital-pizza-commercial"><img src="https://cdn.geminiomni.video/static/prompts/orbital-pizza-commercial.webp" width="760" alt="Black-gloved hands preparing a floating pizza against a black background"></a>
+https://github.com/user-attachments/assets/f1874b37-57de-4561-a866-75cd72d2c160
 
 **Input:** Reference image and text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/orbital-pizza-commercial) · [Open MP4](https://cdn.geminiomni.video/static/prompts/orbital-pizza-commercial.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/orbital-pizza-commercial) · [Open MP4](https://cdn.geminiomni.video/static/prompts/orbital-pizza-commercial.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -90,13 +88,13 @@ Create a 10-second ultra-photorealistic cinematic pizza commercial, 9:16, follow
 
 Creator: [@KrevixAi](https://x.com/KrevixAi/status/2103028083951272167) · [Original post](https://x.com/KrevixAi/status/2103028083951272167)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/luxury-skincare-asmr"><img src="https://cdn.geminiomni.video/static/prompts/luxury-skincare-asmr.webp" width="760" alt="A woman with natural skin texture against a black background before a luxury skincare treatment"></a>
+https://github.com/user-attachments/assets/f3acadb0-9e1b-4ef3-bea6-f0b4509ee707
 
 A fictional skincare ad concept with a timed sequence and consistent framing.
 
 **Input:** Text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/luxury-skincare-asmr) · [Open MP4](https://cdn.geminiomni.video/static/prompts/luxury-skincare-asmr.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/luxury-skincare-asmr) · [Open MP4](https://cdn.geminiomni.video/static/prompts/luxury-skincare-asmr.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -117,11 +115,11 @@ A fictional skincare ad concept with a timed sequence and consistent framing.
 
 Creator: [@KrevixAi](https://x.com/KrevixAi/status/2101930638022410525) · [Original post](https://x.com/KrevixAi/status/2101930638022410525)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/miniature-bmw-assembly-asmr"><img src="https://cdn.geminiomni.video/static/prompts/miniature-bmw-assembly-asmr.webp" width="760" alt="Black-gloved hands assembling a miniature white BMW in a studio"></a>
+https://github.com/user-attachments/assets/f55c6358-8a99-42b1-a6ed-e72eae089a6d
 
 **Input:** Reference image and text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/miniature-bmw-assembly-asmr) · [Open MP4](https://cdn.geminiomni.video/static/prompts/miniature-bmw-assembly-asmr.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/miniature-bmw-assembly-asmr) · [Open MP4](https://cdn.geminiomni.video/static/prompts/miniature-bmw-assembly-asmr.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -153,11 +151,11 @@ Create a 10-second ultra-photorealistic 16:9 automotive ASMR video, first-person
 
 Creator: [@KrevixAi](https://x.com/KrevixAi/status/2101361197400387598) · [Original post](https://x.com/KrevixAi/status/2101361197400387598)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/invisible-fitting-room-fashion"><img src="https://cdn.geminiomni.video/static/prompts/invisible-fitting-room-fashion.webp" width="760" alt="A white mannequin wearing layered coffee-toned outfits in a black fashion studio"></a>
+https://github.com/user-attachments/assets/cb40fbb1-fc1f-4a1e-829e-abb2aeed56ca
 
 **Input:** Reference image and text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/invisible-fitting-room-fashion) · [Open MP4](https://cdn.geminiomni.video/static/prompts/invisible-fitting-room-fashion.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/invisible-fitting-room-fashion) · [Open MP4](https://cdn.geminiomni.video/static/prompts/invisible-fitting-room-fashion.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -189,11 +187,11 @@ Create a 10-second ultra-photorealistic premium fashion video “INVISIBLE FITTI
 
 Creator: [@KrevixAi](https://x.com/KrevixAi/status/2101323200596418809) · [Original post](https://x.com/KrevixAi/status/2101323200596418809)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/burgundy-smartphone-commercial"><img src="https://cdn.geminiomni.video/static/prompts/burgundy-smartphone-commercial.webp" width="760" alt="Black-gloved hands presenting a premium smartphone against a black background"></a>
+https://github.com/user-attachments/assets/80d17777-afb5-4e55-a878-39f8a94a6adf
 
 **Input:** Reference image and text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/burgundy-smartphone-commercial) · [Open MP4](https://cdn.geminiomni.video/static/prompts/burgundy-smartphone-commercial.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/burgundy-smartphone-commercial) · [Open MP4](https://cdn.geminiomni.video/static/prompts/burgundy-smartphone-commercial.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -225,11 +223,11 @@ Create a 10-second ultra-photorealistic cinematic premium smartphone commercial,
 
 Creator: [@MrDasCreates](https://x.com/MrDasCreates/status/2101295406877643204) · [Original post](https://x.com/MrDasCreates/status/2101295406877643204)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/red-bull-canyon-fpv"><img src="https://cdn.geminiomni.video/static/prompts/red-bull-canyon-fpv.webp" width="760" alt="FPV camera flying through a desert canyon before a Red Bull product reveal"></a>
+https://github.com/user-attachments/assets/6ef71850-741e-4c5e-ae2d-e8692145e1b8
 
 **Input:** Text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/red-bull-canyon-fpv) · [Open MP4](https://cdn.geminiomni.video/static/prompts/red-bull-canyon-fpv.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/red-bull-canyon-fpv) · [Open MP4](https://cdn.geminiomni.video/static/prompts/red-bull-canyon-fpv.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -291,11 +289,11 @@ Creator: [@MrDasCreates](https://x.com/MrDasCreates/status/2101295406877643204) 
 
 Creator: [@KrevixAi](https://x.com/KrevixAi/status/2100641403311358015) · [Original post](https://x.com/KrevixAi/status/2100641403311358015)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/teddy-luxury-furniture-tour"><img src="https://cdn.geminiomni.video/static/prompts/teddy-luxury-furniture-tour.webp" width="760" alt="A small brown teddy bear exploring leather furniture in a luxury living room"></a>
+https://github.com/user-attachments/assets/dd59a0bc-71d5-4bdb-8d73-c0eb7f2c37b9
 
 **Input:** Reference image and text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/teddy-luxury-furniture-tour) · [Open MP4](https://cdn.geminiomni.video/static/prompts/teddy-luxury-furniture-tour.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/teddy-luxury-furniture-tour) · [Open MP4](https://cdn.geminiomni.video/static/prompts/teddy-luxury-furniture-tour.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -327,11 +325,11 @@ Create a 10-second ultra-photorealistic cinematic luxury furniture commercial, 1
 
 Creator: [@MrDasOnX](https://x.com/MrDasOnX/status/2095861297288188282) · [Original post](https://x.com/MrDasOnX/status/2095861297288188282)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/louis-vuitton-neverfull-assembly"><img src="https://cdn.geminiomni.video/static/prompts/louis-vuitton-neverfull-assembly.webp" width="760" alt="Louis Vuitton Neverfull assembly generated video preview"></a>
+https://github.com/user-attachments/assets/72675184-ca70-4b3a-a962-204498ba99f1
 
 **Input:** Text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/louis-vuitton-neverfull-assembly) · [Open MP4](https://cdn.geminiomni.video/static/prompts/louis-vuitton-neverfull-assembly.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/louis-vuitton-neverfull-assembly) · [Open MP4](https://cdn.geminiomni.video/static/prompts/louis-vuitton-neverfull-assembly.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -399,11 +397,11 @@ Creator: [@MrDasOnX](https://x.com/MrDasOnX/status/2095861297288188282) · [Orig
 
 Creator: [@abs_uiux](https://x.com/abs_uiux/status/2095139093327847881) · [Original post](https://x.com/abs_uiux/status/2095139093327847881)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/miniature-sports-motorcycle-assembly"><img src="https://cdn.geminiomni.video/static/prompts/miniature-sports-motorcycle-assembly.webp" width="760" alt="Miniature sports motorcycle assembly generated video preview"></a>
+https://github.com/user-attachments/assets/3e655436-0c0c-4451-aa14-6cfaa698d640
 
 **Input:** Text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/miniature-sports-motorcycle-assembly) · [Open MP4](https://cdn.geminiomni.video/static/prompts/miniature-sports-motorcycle-assembly.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/miniature-sports-motorcycle-assembly) · [Open MP4](https://cdn.geminiomni.video/static/prompts/miniature-sports-motorcycle-assembly.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -424,11 +422,11 @@ Create a photorealistic macro video of a tiny red-and-black superbike being asse
 
 Creator: [@KrevixAi](https://x.com/KrevixAi/status/2095068673434120487) · [Original post](https://x.com/KrevixAi/status/2095068673434120487)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/shopping-mall-kiosk-commercial"><img src="https://cdn.geminiomni.video/static/prompts/shopping-mall-kiosk-commercial.webp" width="760" alt="Shopping mall kiosk commercial generated video preview"></a>
+https://github.com/user-attachments/assets/c1575b58-26a4-4f48-a4e3-3b640ece9c58
 
 **Input:** Text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/shopping-mall-kiosk-commercial) · [Open MP4](https://cdn.geminiomni.video/static/prompts/shopping-mall-kiosk-commercial.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/shopping-mall-kiosk-commercial) · [Open MP4](https://cdn.geminiomni.video/static/prompts/shopping-mall-kiosk-commercial.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -474,13 +472,13 @@ High-end architectural CGI, photorealistic 3D, PBR materials, ray-traced reflect
 
 Creator: [@MrDasOnX](https://x.com/MrDasOnX/status/2086771369673699476) · [Original post](https://x.com/MrDasOnX/status/2086771369673699476)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/strawberry-jello-pool"><img src="https://cdn.geminiomni.video/static/prompts/strawberry-jello-pool.webp" width="760" alt="Strawberry jello pool generated video preview"></a>
+https://github.com/user-attachments/assets/2a1df628-785d-4b94-b716-438fc1ef3d80
 
 A food-inspired scene built around translucent materials, soft deformation, and camera movement.
 
 **Input:** Text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/strawberry-jello-pool) · [Open MP4](https://cdn.geminiomni.video/static/prompts/strawberry-jello-pool.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/strawberry-jello-pool) · [Open MP4](https://cdn.geminiomni.video/static/prompts/strawberry-jello-pool.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -501,13 +499,13 @@ A luxurious swimming pool made entirely of translucent ruby-red strawberry jello
 
 Creator: [@MrDasCreates](https://x.com/MrDasCreates/status/2075189478675951770) · [Original post](https://x.com/MrDasCreates/status/2075189478675951770)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/wedding-ring-unboxing"><img src="https://cdn.geminiomni.video/static/prompts/wedding-ring-unboxing.webp" width="760" alt="Wedding ring unboxing generated video preview"></a>
+https://github.com/user-attachments/assets/3d0c13bc-003f-417a-8426-06e962289650
 
 A jewelry reveal with warm lighting, a floating ring, and a gentle camera orbit.
 
 **Input:** Text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/wedding-ring-unboxing) · [Open MP4](https://cdn.geminiomni.video/static/prompts/wedding-ring-unboxing.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/wedding-ring-unboxing) · [Open MP4](https://cdn.geminiomni.video/static/prompts/wedding-ring-unboxing.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -540,13 +538,13 @@ Smooth cinematic camera movement: gentle orbit around the floating ring with a s
 
 Creator: [@michaelrabone](https://x.com/michaelrabone/status/2080246604972319189) · [Original post](https://x.com/michaelrabone/status/2080246604972319189)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/stain-remover-ugc-ad"><img src="https://cdn.geminiomni.video/static/prompts/stain-remover-ugc-ad.webp" width="760" alt="Stain remover UGC ad generated video preview"></a>
+https://github.com/user-attachments/assets/aba7046c-21ad-4852-bb94-72cc3dbb52fe
 
 A fictional product-demo concept with dialogue, handheld framing, and a clear ending.
 
 **Input:** Text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/stain-remover-ugc-ad) · [Open MP4](https://cdn.geminiomni.video/static/prompts/stain-remover-ugc-ad.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/stain-remover-ugc-ad) · [Open MP4](https://cdn.geminiomni.video/static/prompts/stain-remover-ugc-ad.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -583,11 +581,11 @@ Handheld smartphone camera with subtle shake, natural lighting, realistic facial
 
 Creator: [@rovvmut\_](https://x.com/rovvmut_/status/2093215928863650296) · [Original post](https://x.com/rovvmut_/status/2093215928863650296)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/female-streamer-zombie-nurse-game"><img src="https://cdn.geminiomni.video/static/prompts/female-streamer-zombie-nurse-game.webp" width="760" alt="Female streamer playing a zombie nurse game generated video preview"></a>
+https://github.com/user-attachments/assets/a66b5075-9aee-4f4c-a90f-189f9d86fa21
 
 **Input:** Text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/female-streamer-zombie-nurse-game) · [Open MP4](https://cdn.geminiomni.video/static/prompts/female-streamer-zombie-nurse-game.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/female-streamer-zombie-nurse-game) · [Open MP4](https://cdn.geminiomni.video/static/prompts/female-streamer-zombie-nurse-game.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -608,11 +606,11 @@ A female streamer commenting and playing a game where the main character is a fe
 
 Creator: [@michaelrabone](https://x.com/michaelrabone/status/2088944112820986091) · [Original post](https://x.com/michaelrabone/status/2088944112820986091)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/rooster-bowl-haircut"><img src="https://cdn.geminiomni.video/static/prompts/rooster-bowl-haircut.webp" width="760" alt="Rooster having a bowl haircut generated video preview"></a>
+https://github.com/user-attachments/assets/bc24425f-9e6a-4b8e-88b6-800fe693ccbd
 
 **Input:** Text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/rooster-bowl-haircut) · [Open MP4](https://cdn.geminiomni.video/static/prompts/rooster-bowl-haircut.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/rooster-bowl-haircut) · [Open MP4](https://cdn.geminiomni.video/static/prompts/rooster-bowl-haircut.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -643,13 +641,13 @@ Timeline Breakdown:
 
 Creator: [@michaelrabone](https://x.com/michaelrabone/status/2085999689267020154) · [Original post](https://x.com/michaelrabone/status/2085999689267020154)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/cat-playing-saxophone-at-night"><img src="https://cdn.geminiomni.video/static/prompts/cat-playing-saxophone-at-night.webp" width="760" alt="Cat playing saxophone at night generated video preview"></a>
+https://github.com/user-attachments/assets/5bc583b2-fbc0-4750-808b-2c9d2165bf35
 
 A comedic sequence using a fixed security-camera viewpoint and timed actions.
 
 **Input:** Text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/cat-playing-saxophone-at-night) · [Open MP4](https://cdn.geminiomni.video/static/prompts/cat-playing-saxophone-at-night.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/cat-playing-saxophone-at-night) · [Open MP4](https://cdn.geminiomni.video/static/prompts/cat-playing-saxophone-at-night.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -680,11 +678,11 @@ Timeline Breakdown:
 
 Creator: [@michaelrabone](https://x.com/michaelrabone/status/2075490289062400195) · [Original post](https://x.com/michaelrabone/status/2075490289062400195)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/cockroaches-remove-pineapple"><img src="https://cdn.geminiomni.video/static/prompts/cockroaches-remove-pineapple.webp" width="760" alt="Cockroaches removing pineapple from pizza generated video preview"></a>
+https://github.com/user-attachments/assets/008a315a-a72d-4027-bece-161ebb33c5ca
 
 **Input:** Text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/cockroaches-remove-pineapple) · [Open MP4](https://cdn.geminiomni.video/static/prompts/cockroaches-remove-pineapple.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/cockroaches-remove-pineapple) · [Open MP4](https://cdn.geminiomni.video/static/prompts/cockroaches-remove-pineapple.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -719,11 +717,11 @@ Audio: Gritty ambient street noise, squishy food sound effects, and a distinct c
 
 Creator: [@michaelrabone](https://x.com/michaelrabone/status/2073316066931966159) · [Original post](https://x.com/michaelrabone/status/2073316066931966159)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/man-cat-rollercoaster-selfie"><img src="https://cdn.geminiomni.video/static/prompts/man-cat-rollercoaster-selfie.webp" width="760" alt="Man holding a cat on a rollercoaster generated video preview"></a>
+https://github.com/user-attachments/assets/6abd28fa-75ec-4569-97be-addc8d308123
 
 **Input:** Text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/man-cat-rollercoaster-selfie) · [Open MP4](https://cdn.geminiomni.video/static/prompts/man-cat-rollercoaster-selfie.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/man-cat-rollercoaster-selfie) · [Open MP4](https://cdn.geminiomni.video/static/prompts/man-cat-rollercoaster-selfie.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -766,11 +764,11 @@ Selfie-view fun video of a screaming bearded man holding his orange tabby cat ri
 
 Creator: [@michaelrabone](https://x.com/michaelrabone/status/2092160308097761581) · [Original post](https://x.com/michaelrabone/status/2092160308097761581)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/adventures-of-captain-moustache"><img src="https://cdn.geminiomni.video/static/prompts/captain-moustache.webp" width="760" alt="Adventures of Captain Moustache generated video preview"></a>
+https://github.com/user-attachments/assets/aea67b5a-a931-4788-9d35-5e6d2383a70a
 
 **Input:** Text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/adventures-of-captain-moustache) · [Open MP4](https://cdn.geminiomni.video/static/prompts/captain-moustache.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/adventures-of-captain-moustache) · [Open MP4](https://cdn.geminiomni.video/static/prompts/captain-moustache.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -803,11 +801,11 @@ Timeline Breakdown:
 
 Creator: [@michaelrabone](https://x.com/michaelrabone/status/2087539929744130264) · [Original post](https://x.com/michaelrabone/status/2087539929744130264)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/grandmother-theft-auto"><img src="https://cdn.geminiomni.video/static/prompts/grandmother-theft-auto.webp" width="760" alt="Grandmother Theft Auto generated video preview"></a>
+https://github.com/user-attachments/assets/b35bd60d-c462-42cb-bd4b-a844e29aadd2
 
 **Input:** Text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/grandmother-theft-auto) · [Open MP4](https://cdn.geminiomni.video/static/prompts/grandmother-theft-auto.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/grandmother-theft-auto) · [Open MP4](https://cdn.geminiomni.video/static/prompts/grandmother-theft-auto.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -838,13 +836,13 @@ Timeline Breakdown:
 
 Creator: [@michaelrabone](https://x.com/michaelrabone/status/2087177513973801289) · [Original post](https://x.com/michaelrabone/status/2087177513973801289)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/cowboys-and-dinosaurs"><img src="https://cdn.geminiomni.video/static/prompts/cowboys-and-dinosaurs.webp" width="760" alt="Cowboys and dinosaurs generated video preview"></a>
+https://github.com/user-attachments/assets/ccf58eb7-c436-4524-83f0-8ca331f85b38
 
 A five-shot sequence with explicit timing, changing light, and distinct compositions.
 
 **Input:** Text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/cowboys-and-dinosaurs) · [Open MP4](https://cdn.geminiomni.video/static/prompts/cowboys-and-dinosaurs.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/cowboys-and-dinosaurs) · [Open MP4](https://cdn.geminiomni.video/static/prompts/cowboys-and-dinosaurs.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -873,11 +871,11 @@ A five-shot sequence with explicit timing, changing light, and distinct composit
 
 Creator: [@michaelrabone](https://x.com/michaelrabone/status/2087086936963870721) · [Original post](https://x.com/michaelrabone/status/2087086936963870721)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/fantasy-movie-set-behind-the-scenes"><img src="https://cdn.geminiomni.video/static/prompts/fantasy-movie-set-behind-the-scenes.webp" width="760" alt="Fantasy movie set behind-the-scenes generated video preview"></a>
+https://github.com/user-attachments/assets/b3e61f5a-fcce-49d0-a6d7-f72a0350257f
 
 **Input:** Text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/fantasy-movie-set-behind-the-scenes) · [Open MP4](https://cdn.geminiomni.video/static/prompts/fantasy-movie-set-behind-the-scenes.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/fantasy-movie-set-behind-the-scenes) · [Open MP4](https://cdn.geminiomni.video/static/prompts/fantasy-movie-set-behind-the-scenes.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -904,11 +902,11 @@ Timeline Breakdown:
 
 Creator: [@michaelrabone](https://x.com/michaelrabone/status/2086361848157237655) · [Original post](https://x.com/michaelrabone/status/2086361848157237655)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/roswell-ufo-crash-site"><img src="https://cdn.geminiomni.video/static/prompts/roswell-ufo-crash-site.webp" width="760" alt="Roswell UFO crash site generated video preview"></a>
+https://github.com/user-attachments/assets/b692a76d-3f20-4913-8583-44da85bb0f0d
 
 **Input:** Text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/roswell-ufo-crash-site) · [Open MP4](https://cdn.geminiomni.video/static/prompts/roswell-ufo-crash-site.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/roswell-ufo-crash-site) · [Open MP4](https://cdn.geminiomni.video/static/prompts/roswell-ufo-crash-site.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -929,11 +927,11 @@ The Roswell UFO incident occurred in early July 1947. Based on descriptions and 
 
 Creator: [@MrDasOnX](https://x.com/MrDasOnX/status/2077310416615780646) · [Original post](https://x.com/MrDasOnX/status/2077310416615780646)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/penguin-treasure-chest-pov"><img src="https://cdn.geminiomni.video/static/prompts/penguin-treasure-chest-pov.webp" width="760" alt="Penguin treasure chest POV generated video preview"></a>
+https://github.com/user-attachments/assets/c206b673-4bcc-4024-a700-1e9268f3f85f
 
 **Input:** Text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/penguin-treasure-chest-pov) · [Open MP4](https://cdn.geminiomni.video/static/prompts/penguin-treasure-chest-pov.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/penguin-treasure-chest-pov) · [Open MP4](https://cdn.geminiomni.video/static/prompts/penguin-treasure-chest-pov.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -958,11 +956,11 @@ Ultra-realistic, cinematic lighting, highly detailed feathers, expressive eyes, 
 
 Creator: [@vireonixx](https://x.com/vireonixx/status/2069347569516605575) · [Original post](https://x.com/vireonixx/status/2069347569516605575)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/baby-elephant-writes-hello"><img src="https://cdn.geminiomni.video/static/prompts/baby-elephant-writes-hello.webp" width="760" alt="Baby elephant writing hello generated video preview"></a>
+https://github.com/user-attachments/assets/b4f68727-3dee-4493-9130-8bf637018836
 
 **Input:** Text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/baby-elephant-writes-hello) · [Open MP4](https://cdn.geminiomni.video/static/prompts/baby-elephant-writes-hello.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/baby-elephant-writes-hello) · [Open MP4](https://cdn.geminiomni.video/static/prompts/baby-elephant-writes-hello.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -995,11 +993,11 @@ Photorealistic. Natural movement.Documentary realism. No fantasy elements.
 
 Creator: [@johnAGI168](https://x.com/johnAGI168/status/2094291245879160940) · [Original post](https://x.com/johnAGI168/status/2094291245879160940)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/china-landmarks-selfie-hyperlapse"><img src="https://cdn.geminiomni.video/static/prompts/china-landmarks-selfie-hyperlapse.webp" width="760" alt="Selfie hyperlapse across Chinese landmarks generated video preview"></a>
+https://github.com/user-attachments/assets/f41402bb-64e6-48e2-a0d7-1fd285221959
 
 **Input:** Reference image and text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/china-landmarks-selfie-hyperlapse) · [Open MP4](https://cdn.geminiomni.video/static/prompts/china-landmarks-selfie-hyperlapse.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/china-landmarks-selfie-hyperlapse) · [Open MP4](https://cdn.geminiomni.video/static/prompts/china-landmarks-selfie-hyperlapse.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -1010,7 +1008,7 @@ Creator: [@johnAGI168](https://x.com/johnAGI168/status/2094291245879160940) · [
 
 </details>
 
-Reference input is not included in this collection. Supply your own matching image or video; the preview above shows the output.
+Reference input is not included in this collection. Supply your own matching image or video; the video above shows the output.
 
 [Back to Characters & People](#characters-people) · [All categories](#categories)
 
@@ -1022,13 +1020,13 @@ Reference input is not included in this collection. Supply your own matching ima
 
 Creator: [@HaniaAi12](https://x.com/HaniaAi12/status/2092056184757055583) · [Original post](https://x.com/HaniaAi12/status/2092056184757055583)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/pink-floral-dress-garden"><img src="https://cdn.geminiomni.video/static/prompts/pink-floral-dress-garden.webp" width="760" alt="Woman in a pink floral dress walking through a garden generated video preview"></a>
+https://github.com/user-attachments/assets/33be6a9a-ca1f-432e-8d77-51e074a26768
 
 A fashion scene with fabric motion, golden-hour lighting, and a vertical composition.
 
 **Input:** Text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/pink-floral-dress-garden) · [Open MP4](https://cdn.geminiomni.video/static/prompts/pink-floral-dress-garden.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/pink-floral-dress-garden) · [Open MP4](https://cdn.geminiomni.video/static/prompts/pink-floral-dress-garden.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -1049,11 +1047,11 @@ Create a 10-second cinematic aesthetic video of an elegant adult woman wearing a
 
 Creator: [@letidotae](https://x.com/letidotae/status/2077828372286365811) · [Original post](https://x.com/letidotae/status/2077828372286365811)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/paparazzi-private-jet-avatar"><img src="https://cdn.geminiomni.video/static/prompts/paparazzi-private-jet-avatar.webp" width="760" alt="Paparazzi private jet avatar generated video preview"></a>
+https://github.com/user-attachments/assets/19f0a154-d123-48cf-8e26-e7dc8863920e
 
 **Input:** Reference image and text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/paparazzi-private-jet-avatar) · [Open MP4](https://cdn.geminiomni.video/static/prompts/paparazzi-private-jet-avatar.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/paparazzi-private-jet-avatar) · [Open MP4](https://cdn.geminiomni.video/static/prompts/paparazzi-private-jet-avatar.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -1064,7 +1062,7 @@ I wanna recreate a viral reel where it's a BBC paparazzi clip of Haaland walking
 
 </details>
 
-Reference input is not included in this collection. Supply your own matching image or video; the preview above shows the output.
+Reference input is not included in this collection. Supply your own matching image or video; the video above shows the output.
 
 [Back to Characters & People](#characters-people) · [All categories](#categories)
 
@@ -1092,11 +1090,11 @@ Reference input is not included in this collection. Supply your own matching ima
 
 Creator: [@KrevixAi](https://x.com/KrevixAi/status/2103165346735604031) · [Original post](https://x.com/KrevixAi/status/2103165346735604031)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/origami-room-renovation"><img src="https://cdn.geminiomni.video/static/prompts/origami-room-renovation.webp" width="760" alt="A black-gloved hand in an unfinished room before an origami-style interior renovation"></a>
+https://github.com/user-attachments/assets/291430af-6192-4c1e-8086-01f6bfd58775
 
 **Input:** First frame and last frame images, plus a text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/origami-room-renovation) · [Open MP4](https://cdn.geminiomni.video/static/prompts/origami-room-renovation.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/origami-room-renovation) · [Open MP4](https://cdn.geminiomni.video/static/prompts/origami-room-renovation.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -1134,13 +1132,13 @@ Create a 10-second ultra-photorealistic MONOLITHIC ORIGAMI transformation from t
 
 Creator: [@AI_VideoLab](https://x.com/AI_VideoLab/status/2095851149270143205) · [Original post](https://x.com/AI_VideoLab/status/2095851149270143205)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/gel-to-jelly-octopus"><img src="https://cdn.geminiomni.video/static/prompts/gel-to-jelly-octopus.webp" width="760" alt="Gel transforming into a jelly octopus generated video preview"></a>
+https://github.com/user-attachments/assets/a6328a33-e723-421e-a79e-c527cc2f4ffb
 
 A one-sentence transformation prompt focused on a single subject and action.
 
 **Input:** Text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/gel-to-jelly-octopus) · [Open MP4](https://cdn.geminiomni.video/static/prompts/gel-to-jelly-octopus.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/gel-to-jelly-octopus) · [Open MP4](https://cdn.geminiomni.video/static/prompts/gel-to-jelly-octopus.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -1161,11 +1159,11 @@ A glowing blob of gel slowly transforms into a soft, elastic jelly octopus. 🐙
 
 Creator: [@SJinn_Agent](https://x.com/SJinn_Agent/status/2093993107083886742) · [Original post](https://x.com/SJinn_Agent/status/2093993107083886742)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/self-embroidering-logo"><img src="https://cdn.geminiomni.video/static/prompts/self-embroidering-logo.webp" width="760" alt="Self-embroidering logo generated video preview"></a>
+https://github.com/user-attachments/assets/6f1b3d2b-ff0c-4dd7-9891-6f047f2b80bc
 
 **Input:** Reference image and text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/self-embroidering-logo) · [Open MP4](https://cdn.geminiomni.video/static/prompts/self-embroidering-logo.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/self-embroidering-logo) · [Open MP4](https://cdn.geminiomni.video/static/prompts/self-embroidering-logo.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -1176,7 +1174,7 @@ Extreme macro shot of woven cotton shirt fabric, empty at first. Colored embroid
 
 </details>
 
-Reference input is not included in this collection. Supply your own matching image or video; the preview above shows the output.
+Reference input is not included in this collection. Supply your own matching image or video; the video above shows the output.
 
 [Back to VFX & Transformations](#vfx-transformations) · [All categories](#categories)
 
@@ -1188,11 +1186,11 @@ Reference input is not included in this collection. Supply your own matching ima
 
 Creator: [@michaelrabone](https://x.com/michaelrabone/status/2086861580977766730) · [Original post](https://x.com/michaelrabone/status/2086861580977766730)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/dance-calligraphy-brush"><img src="https://cdn.geminiomni.video/static/prompts/dance-calligraphy-brush.webp" width="760" alt="Dance and calligraphy brush generated video preview"></a>
+https://github.com/user-attachments/assets/7c48c476-0849-402c-b8ac-e09d49ae5a48
 
 **Input:** Text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/dance-calligraphy-brush) · [Open MP4](https://cdn.geminiomni.video/static/prompts/dance-calligraphy-brush.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/dance-calligraphy-brush) · [Open MP4](https://cdn.geminiomni.video/static/prompts/dance-calligraphy-brush.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -1223,11 +1221,11 @@ Timeline Breakdown:
 
 Creator: [@letidotae](https://x.com/letidotae/status/2077486903100911880) · [Original post](https://x.com/letidotae/status/2077486903100911880)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/shop-to-minecraft-transformation"><img src="https://cdn.geminiomni.video/static/prompts/shop-to-minecraft-transformation.webp" width="760" alt="Shop to Minecraft transformation generated video preview"></a>
+https://github.com/user-attachments/assets/a56202d6-07a9-497f-8f88-6dbe602ba4f0
 
 **Input:** Source image and text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/shop-to-minecraft-transformation) · [Open MP4](https://cdn.geminiomni.video/static/prompts/shop-to-minecraft-transformation.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/shop-to-minecraft-transformation) · [Open MP4](https://cdn.geminiomni.video/static/prompts/shop-to-minecraft-transformation.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -1238,7 +1236,7 @@ transform the shop into Minecraft style. Needs a transformation animation too, s
 
 </details>
 
-Reference input is not included in this collection. Supply your own matching image or video; the preview above shows the output.
+Reference input is not included in this collection. Supply your own matching image or video; the video above shows the output.
 
 [Back to VFX & Transformations](#vfx-transformations) · [All categories](#categories)
 
@@ -1250,13 +1248,13 @@ Reference input is not included in this collection. Supply your own matching ima
 
 Creator: [@MrDasOnX](https://x.com/MrDasOnX/status/2066068213734195675) · [Original post](https://x.com/MrDasOnX/status/2066068213734195675)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/crystal-ice-rose-asmr"><img src="https://cdn.geminiomni.video/static/prompts/crystal-ice-rose-asmr.webp" width="760" alt="Crystal ice rose ASMR generated video preview"></a>
+https://github.com/user-attachments/assets/b7b76dd7-0a37-4e3a-b0c0-faba2ebdae2f
 
 A short macro prompt combining ice textures, slow motion, and a clear sound brief.
 
 **Input:** Text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/crystal-ice-rose-asmr) · [Open MP4](https://cdn.geminiomni.video/static/prompts/crystal-ice-rose-asmr.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/crystal-ice-rose-asmr) · [Open MP4](https://cdn.geminiomni.video/static/prompts/crystal-ice-rose-asmr.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -1277,11 +1275,11 @@ Ultra-realistic ASMR video, 10 seconds. A frozen translucent rose made of crysta
 
 Creator: [@alexanderchen](https://x.com/alexanderchen/status/2060322611586834518) · [Original post](https://x.com/alexanderchen/status/2060322611586834518)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/bird-leaves-computer-screen"><img src="https://cdn.geminiomni.video/static/prompts/bird-leaves-computer-screen.webp" width="760" alt="Bird leaving a computer screen generated video preview"></a>
+https://github.com/user-attachments/assets/deb55658-c97a-48c7-99c2-3dee9f1d3cad
 
 **Input:** Reference video and text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/bird-leaves-computer-screen) · [Open MP4](https://cdn.geminiomni.video/static/prompts/bird-leaves-computer-screen.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/bird-leaves-computer-screen) · [Open MP4](https://cdn.geminiomni.video/static/prompts/bird-leaves-computer-screen.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -1292,7 +1290,7 @@ Start with the computer screen content exactly the same as in the video. Make th
 
 </details>
 
-Reference input is not included in this collection. Supply your own matching image or video; the preview above shows the output.
+Reference input is not included in this collection. Supply your own matching image or video; the video above shows the output.
 
 [Back to VFX & Transformations](#vfx-transformations) · [All categories](#categories)
 
@@ -1304,11 +1302,11 @@ Reference input is not included in this collection. Supply your own matching ima
 
 Creator: [@leahlibest](https://x.com/leahlibest/status/2059909611965284622) · [Original post](https://x.com/leahlibest/status/2059909611965284622)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/eyeshadow-style-transformation"><img src="https://cdn.geminiomni.video/static/prompts/eyeshadow-style-transformation.webp" width="760" alt="Eyeshadow style transformation generated video preview"></a>
+https://github.com/user-attachments/assets/009a9150-2c64-437e-913b-89f2fafd1229
 
 **Input:** Reference video and text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/eyeshadow-style-transformation) · [Open MP4](https://cdn.geminiomni.video/static/prompts/eyeshadow-style-transformation.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/eyeshadow-style-transformation) · [Open MP4](https://cdn.geminiomni.video/static/prompts/eyeshadow-style-transformation.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -1319,7 +1317,7 @@ Start with video and eye makeup unchanged. Then change the eye makeup every 0.5 
 
 </details>
 
-Reference input is not included in this collection. Supply your own matching image or video; the preview above shows the output.
+Reference input is not included in this collection. Supply your own matching image or video; the video above shows the output.
 
 [Back to VFX & Transformations](#vfx-transformations) · [All categories](#categories)
 
@@ -1331,11 +1329,11 @@ Reference input is not included in this collection. Supply your own matching ima
 
 Creator: [@alexanderchen](https://x.com/alexanderchen/status/2059236590472372348) · [Original post](https://x.com/alexanderchen/status/2059236590472372348)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/glasses-style-transformation"><img src="https://cdn.geminiomni.video/static/prompts/glasses-style-transformation.webp" width="760" alt="Glasses style transformation generated video preview"></a>
+https://github.com/user-attachments/assets/1887914b-80f7-4654-80b8-a9a5b235d83f
 
 **Input:** Reference video and text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/glasses-style-transformation) · [Open MP4](https://cdn.geminiomni.video/static/prompts/glasses-style-transformation.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/glasses-style-transformation) · [Open MP4](https://cdn.geminiomni.video/static/prompts/glasses-style-transformation.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -1346,7 +1344,7 @@ Start with video and glasses unchanged. then change the glasses every 0.5 second
 
 </details>
 
-Reference input is not included in this collection. Supply your own matching image or video; the preview above shows the output.
+Reference input is not included in this collection. Supply your own matching image or video; the video above shows the output.
 
 [Back to VFX & Transformations](#vfx-transformations) · [All categories](#categories)
 
@@ -1358,11 +1356,11 @@ Reference input is not included in this collection. Supply your own matching ima
 
 Creator: [@alexanderchen](https://x.com/alexanderchen/status/2058330610574221672) · [Original post](https://x.com/alexanderchen/status/2058330610574221672)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/augmented-reality-food-labels"><img src="https://cdn.geminiomni.video/static/prompts/augmented-reality-food-labels.webp" width="760" alt="Augmented reality food labels generated video preview"></a>
+https://github.com/user-attachments/assets/e3b12cd2-c63a-4d59-a630-50d17c006a8d
 
 **Input:** Source image and text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/augmented-reality-food-labels) · [Open MP4](https://cdn.geminiomni.video/static/prompts/augmented-reality-food-labels.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/augmented-reality-food-labels) · [Open MP4](https://cdn.geminiomni.video/static/prompts/augmented-reality-food-labels.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -1373,7 +1371,7 @@ Explain the details in this image via monochrome white augmented reality style s
 
 </details>
 
-Reference input is not included in this collection. Supply your own matching image or video; the preview above shows the output.
+Reference input is not included in this collection. Supply your own matching image or video; the video above shows the output.
 
 [Back to VFX & Transformations](#vfx-transformations) · [All categories](#categories)
 
@@ -1385,11 +1383,11 @@ Reference input is not included in this collection. Supply your own matching ima
 
 Creator: [@alexanderchen](https://x.com/alexanderchen/status/2057485987333148828) · [Original post](https://x.com/alexanderchen/status/2057485987333148828)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/kettle-hologram-cutaway"><img src="https://cdn.geminiomni.video/static/prompts/kettle-hologram-cutaway.webp" width="760" alt="Kettle hologram cutaway generated video preview"></a>
+https://github.com/user-attachments/assets/0217aac3-596f-4845-82cb-647dd3947152
 
 **Input:** Reference video and text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/kettle-hologram-cutaway) · [Open MP4](https://cdn.geminiomni.video/static/prompts/kettle-hologram-cutaway.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/kettle-hologram-cutaway) · [Open MP4](https://cdn.geminiomni.video/static/prompts/kettle-hologram-cutaway.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -1400,7 +1398,7 @@ Keep the video exactly the same until the hand touches the kettle. When the hand
 
 </details>
 
-Reference input is not included in this collection. Supply your own matching image or video; the preview above shows the output.
+Reference input is not included in this collection. Supply your own matching image or video; the video above shows the output.
 
 [Back to VFX & Transformations](#vfx-transformations) · [All categories](#categories)
 
@@ -1426,11 +1424,11 @@ Reference input is not included in this collection. Supply your own matching ima
 
 Creator: [@michaelrabone](https://x.com/michaelrabone/status/2095512363382255780) · [Original post](https://x.com/michaelrabone/status/2095512363382255780)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/she-will-eat-you-alive"><img src="https://cdn.geminiomni.video/static/prompts/she-will-eat-you-alive.webp" width="760" alt="She will eat you alive generated video preview"></a>
+https://github.com/user-attachments/assets/15b6cd64-a80d-4274-8966-74f77c739a8b
 
 **Input:** Text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/she-will-eat-you-alive) · [Open MP4](https://cdn.geminiomni.video/static/prompts/she-will-eat-you-alive.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/she-will-eat-you-alive) · [Open MP4](https://cdn.geminiomni.video/static/prompts/she-will-eat-you-alive.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -1461,13 +1459,13 @@ Timeline Breakdown:
 
 Creator: [@MohdAdnanA86218](https://x.com/MohdAdnanA86218/status/2094673995945644454) · [Original post](https://x.com/MohdAdnanA86218/status/2094673995945644454)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/miniature-robot-factory"><img src="https://cdn.geminiomni.video/static/prompts/miniature-robot-factory.webp" width="760" alt="Miniature robot factory generated video preview"></a>
+https://github.com/user-attachments/assets/6a925ab7-cfa7-41c6-9f9e-39191614274f
 
 A miniature story moving from assembly to activation and a final tracking shot.
 
 **Input:** Text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/miniature-robot-factory) · [Open MP4](https://cdn.geminiomni.video/static/prompts/miniature-robot-factory.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/miniature-robot-factory) · [Open MP4](https://cdn.geminiomni.video/static/prompts/miniature-robot-factory.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -1493,11 +1491,11 @@ Macro photography, realistic miniature scale, intricate machinery, tiny tools, r
 
 Creator: [@michaelrabone](https://x.com/michaelrabone/status/2085682654947504362) · [Original post](https://x.com/michaelrabone/status/2085682654947504362)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/drunk-mosquito-at-bar"><img src="https://cdn.geminiomni.video/static/prompts/drunk-mosquito-at-bar.webp" width="760" alt="Drunk mosquito at a bar generated video preview"></a>
+https://github.com/user-attachments/assets/e592f138-a03c-46e3-ba02-325d176c0684
 
 **Input:** Text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/drunk-mosquito-at-bar) · [Open MP4](https://cdn.geminiomni.video/static/prompts/drunk-mosquito-at-bar.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/drunk-mosquito-at-bar) · [Open MP4](https://cdn.geminiomni.video/static/prompts/drunk-mosquito-at-bar.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -1530,11 +1528,11 @@ Timeline Breakdown:
 
 Creator: [@michaelrabone](https://x.com/michaelrabone/status/2085319999476928716) · [Original post](https://x.com/michaelrabone/status/2085319999476928716)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/x-ray-broken-heart-reveal"><img src="https://cdn.geminiomni.video/static/prompts/x-ray-broken-heart.webp" width="760" alt="X-Ray Broken Heart Reveal generated video preview"></a>
+https://github.com/user-attachments/assets/8416805f-4174-4ad9-b5ae-fb69e651b03a
 
 **Input:** Text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/x-ray-broken-heart-reveal) · [Open MP4](https://cdn.geminiomni.video/static/prompts/x-ray-broken-heart.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/x-ray-broken-heart-reveal) · [Open MP4](https://cdn.geminiomni.video/static/prompts/x-ray-broken-heart.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -1563,11 +1561,11 @@ Timeline Breakdown:
 
 Creator: [@michaelrabone](https://x.com/michaelrabone/status/2084957848602108271) · [Original post](https://x.com/michaelrabone/status/2084957848602108271)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/pistol-shrimp"><img src="https://cdn.geminiomni.video/static/prompts/pistol-shrimp.webp" width="760" alt="Pistol Shrimp generated video preview"></a>
+https://github.com/user-attachments/assets/1bddaafd-c5b1-404f-9b37-cf2aad1b5abe
 
 **Input:** Text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/pistol-shrimp) · [Open MP4](https://cdn.geminiomni.video/static/prompts/pistol-shrimp.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/pistol-shrimp) · [Open MP4](https://cdn.geminiomni.video/static/prompts/pistol-shrimp.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -1596,11 +1594,11 @@ Timeline Breakdown:
 
 Creator: [@michaelrabone](https://x.com/michaelrabone/status/2084595448069648413) · [Original post](https://x.com/michaelrabone/status/2084595448069648413)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/firestarter-firefly"><img src="https://cdn.geminiomni.video/static/prompts/firestarter-firefly.webp" width="760" alt="Firestarter Firefly generated video preview"></a>
+https://github.com/user-attachments/assets/5be86527-d637-44ca-b61a-907c2d07f994
 
 **Input:** Text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/firestarter-firefly) · [Open MP4](https://cdn.geminiomni.video/static/prompts/firestarter-firefly.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/firestarter-firefly) · [Open MP4](https://cdn.geminiomni.video/static/prompts/firestarter-firefly.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -1633,11 +1631,11 @@ Timeline Breakdown:
 
 Creator: [@SaasJunctionHQ](https://x.com/SaasJunctionHQ/status/2084098628608803040) · [Original post](https://x.com/SaasJunctionHQ/status/2084098628608803040)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/sharks-on-surfboards-band"><img src="https://cdn.geminiomni.video/static/prompts/sharks-on-surfboards-band.webp" width="760" alt="Sharks on surfboards band generated video preview"></a>
+https://github.com/user-attachments/assets/b0f91b8e-6717-4f9b-8bed-af1d80e4812d
 
 **Input:** Text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/sharks-on-surfboards-band) · [Open MP4](https://cdn.geminiomni.video/static/prompts/sharks-on-surfboards-band.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/sharks-on-surfboards-band) · [Open MP4](https://cdn.geminiomni.video/static/prompts/sharks-on-surfboards-band.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -1658,11 +1656,11 @@ Bootleg footage from a crowded dive: surf-noise band "Sharks on Surfboards," rea
 
 Creator: [@impaulxyz](https://x.com/impaulxyz/status/2057464393139404969) · [Original post](https://x.com/impaulxyz/status/2057464393139404969)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/hummingbird-hippo-hybrid"><img src="https://cdn.geminiomni.video/static/prompts/hummingbird-hippo-hybrid.webp" width="760" alt="Hummingbird hippo hybrid generated video preview"></a>
+https://github.com/user-attachments/assets/6e11d76f-3a6a-4405-8848-9a484cee00c8
 
 **Input:** Text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/hummingbird-hippo-hybrid) · [Open MP4](https://cdn.geminiomni.video/static/prompts/hummingbird-hippo-hybrid.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/hummingbird-hippo-hybrid) · [Open MP4](https://cdn.geminiomni.video/static/prompts/hummingbird-hippo-hybrid.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
@@ -1691,11 +1689,11 @@ Detailed textures of shimmering iridescent feathers contrasting with realistic r
 
 Creator: [@techhalla](https://x.com/techhalla/status/2057445522240077944) · [Original post](https://x.com/techhalla/status/2057445522240077944)
 
-<a href="https://geminiomni.video/gemini-omni-prompts/frog-headed-octopus"><img src="https://cdn.geminiomni.video/static/prompts/frog-headed-octopus.webp" width="760" alt="Frog-headed octopus generated video preview"></a>
+https://github.com/user-attachments/assets/88225b55-0144-4115-bedf-25e135d42a37
 
 **Input:** Text prompt.
 
-[Watch the video and use this prompt](https://geminiomni.video/gemini-omni-prompts/frog-headed-octopus) · [Open MP4](https://cdn.geminiomni.video/static/prompts/frog-headed-octopus.mp4)
+[Use this prompt](https://geminiomni.video/gemini-omni-prompts/frog-headed-octopus) · [Open MP4](https://cdn.geminiomni.video/static/prompts/frog-headed-octopus.mp4)
 
 <details open>
 <summary>Prompt — click to collapse or expand</summary>
